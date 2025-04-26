@@ -13,7 +13,7 @@ This was my first major coding and reversing project, and it all stemmed from [m
 
 I evntually joined a Forza modding community server to share this, and that is where I met like minded individuals, and I got the idea to make something much bigger with another developer [ItsLogic](https://github.com/ItsLogic).
 
-At some point after I joined a University, and that took over, meaning I had less time to work on this project, so I gathered some other developers such as [szaaamerik](https://github.com/szaaamerik) and I took a step back.
+At some point after, I joined a University, and that took over, meaning I had less time to work on this project, so I gathered some other developers such as [szaaamerik](https://github.com/szaaamerik) and I took a step back.
 
 I am still somewhat involved in the background, with the discord server and organisation.
 
